@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend projects using React and JavaScript<br>👯 I’m looking to collaborate on Web development projects involving React, Java backend, REST APIs, or full-stack applications.<br>🤝 I’m looking for help with Improving application architecture, backend best practices, and optimizing frontend performance.<br>🌱 I’m currently learning Advanced JavaScript, React patterns, and backend concepts in Spring Boot.<br>💬 Ask me about React, JavaScript basics, Java, Spring Boot, REST APIs, Git, and frontend development.<br>⚡ Fun fact I enjoy turning simple ideas into real-world web applications 
+🔭 I’m currently working on Frontend projects using React and JavaScript<br>👯 I’m looking to collaborate on Web development projects involving React, Java backend, REST APIs, or full-stack applications.<br>🤝 🤝 I’m looking for help with improving backend best practices and frontend performance optimization.
+<br>🌱 I’m currently learning Advanced JavaScript, React patterns, and backend concepts in Spring Boot.<br>💬 Ask me about React, JavaScript basics, Java, Spring Boot, REST APIs, Git, and frontend development.<br>⚡ Fun fact I enjoy turning simple ideas into real-world web applications 
 
 
 ## 🌐 Socials:
