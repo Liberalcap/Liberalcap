@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aryan Dubey
+# Hi  I'm Aryan Dubey 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Liberalcap&label=Profile%20Views&color=0e75b6&style=flat)
 
