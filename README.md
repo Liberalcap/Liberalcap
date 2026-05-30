@@ -3,8 +3,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Liberalcap&label=Profile%20Views&color=0e75b6&style=flat)
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend projects using React and JavaScript<br>👯 I’m looking to collaborate on Web development projects involving React, Java backend, REST APIs, or full-stack applications.<br>🤝 🤝 I’m looking for help with improving backend best practices and frontend performance optimization.
-<br>🌱 I’m currently learning Advanced JavaScript, React patterns, and backend concepts in Spring Boot.<br>💬 Ask me about React, JavaScript basics, Java, Spring Boot, REST APIs, Git, and frontend development.<br>⚡ Fun fact I enjoy turning simple ideas into real-world web applications 
+🚀 Full-Stack Developer passionate about building scalable web applications using Java, Spring Boot, React, and MySQL.
+
+💻 Experienced in developing REST APIs, database-driven applications, and responsive user interfaces. I enjoy transforming ideas into real-world products through clean code and practical problem-solving.
+
+📚 Currently exploring Spring Security, JWT Authentication, Docker, CI/CD, and system design concepts to strengthen my backend development skills.
+
+🎯 Seeking opportunities to contribute to impactful software products while continuously learning and growing as a developer.
+
 
 
 ## 🌐 Socials:
