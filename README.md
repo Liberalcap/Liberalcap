@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Liberalcap&label=Profile%20Views&color=0e75b6&style=flat)
 
 #  About Me:
-🚀 Full-Stack Developer passionate about building scalable web applications using Java, Spring Boot, React, and MySQL.
+Full-Stack Developer focused on building modern web applications using Java, Spring Boot, React, and MySQL, with a strong interest in backend engineering and scalable systems.
 
 💻 Experienced in developing REST APIs, database-driven applications, and responsive user interfaces. I enjoy transforming ideas into real-world products through clean code and practical problem-solving.
 
