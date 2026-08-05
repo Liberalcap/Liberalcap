@@ -7,7 +7,7 @@ Full-Stack Developer focused on building modern web applications using Java, Spr
 
 💻 Experienced in developing REST APIs, database-driven applications, and responsive user interfaces. I enjoy transforming ideas into real-world products through clean code and practical problem-solving.
 
-📚 Currently exploring Spring Security, JWT Authentication, Docker, CI/CD, and system design concepts to strengthen my backend development skills.
+📚 Currently exploring Spring Security, JWT Authentication, Docker, CI/CD and system design concepts to strengthen my backend development skills.
 
 🎯 Seeking opportunities to contribute to impactful software products while continuously learning and growing as a developer.
 
